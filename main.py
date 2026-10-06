@@ -1,2 +1,1 @@
-print("Hello, GitHub!") 
-print("Version 2") 
+print("Changed in clone") 
